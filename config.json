@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervave",
+        "uuid": 18584940,
+        "checksum": "833w"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
